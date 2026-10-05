@@ -1,0 +1,9 @@
+Instrument: Acme PlateReader 9000
+Run ID: 2026-10-05_001
+Operator: lab-tech
+Software: v4.2.1
+sample_id, result (mg/L), flag
+S-001, 12.5, pass
+S-002, 13.1, pass
+S-003, <0.01, below_limit
+S-004, 11.9, pass
